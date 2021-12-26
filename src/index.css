@@ -6,6 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url(img/board.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #d19e1d;
 }
 
