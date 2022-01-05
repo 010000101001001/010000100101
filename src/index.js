@@ -18,8 +18,8 @@ function Board()
 
       </div>
       <div id='player1'>
-        <button id='discardedCardsP1'>Odrzucone karty</button>
         <button id='activeCardP1'>Aktywna karta</button>
+        <button id='discardedCardsP1'>Odrzucone karty</button>
         <div id='pointsP1'>Punkty:</div>
       </div>
     </div>
