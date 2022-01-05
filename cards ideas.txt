@@ -15,8 +15,8 @@ NEGATYWNE:
 3.
 4.
 5.
-6.
-7.
+6. Dojazd do szkoły -1 pkt
+7. Niezapowiedziana kartkówka -1 pkt
 8.
 9.
 10.
