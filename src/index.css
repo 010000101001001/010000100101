@@ -89,14 +89,15 @@ border: 2px solid #d19e1d;
 {
   width: 130px;
   height: 190px;
-  margin-left: 370px;
+  
+  margin-left: 10px;
   opacity: 0.7;
 }
 #activeCardP1
 {
   width: 130px;
   height: 190px;
-  margin-left: 10px;
+  margin-left: 370px;
 }
 #pointsP1
 {
