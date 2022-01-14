@@ -1,24 +1,16 @@
-POZYTYWNE:
-1. Brak kolejki w kantynie -2 pkt
-2. Zwolnienie lekcji -2 pkt
-3. Dzień wolny od zajęć -2 pkt
-4. Pozytywny test COVID -2 pkt
-5. Zdalne -2 pkt
-6. Okienko na lekcji -1 pkt
-7. Lekcja WF-u -1 pkt
-8. Apel -1 pkt
-9. Relaks na pufach -1 pkt
-10. Szkolna szama -1 pkt
-11. 5 z matmy -5 pkt (master card)
-NEGATYWNE:
-1. Komputery w 302 +2 pkt
-2. Bluescreen +2 pkt
-3. Rozprawka na polski +2 pkt
-4. Brak średnika w kodzie +2 pkt
-5. Niezapowiedziana kartkówka +2 pkt
-6. Dojazd do szkoły +1 pkt
-7. Zejście do piwnicy +1 pkt
-8. Zgubienie kluczyka +1 pkt
-9. Wąskie przejście +1 pkt
-10. Brak kubeczków w automacie +1 pkt
-11. Dzień zawodowych +5 pkt (master card)
+1. Brak kolejki w kantynie 
+2. Dzień wolny od zajęć 
+3. Pozytywny test COVID 
+4. Zdalne 
+5. Apel 
+6. Relaks na pufach -
+7. Szkolna szama 
+8. 5 z matmy (master card)
+9. Komputery w 302 
+10. Bluescreen 
+11. Brak średnika w kodzie 
+12. Zejście do piwnicy 
+13. Zgubienie kluczyka 
+14. Wąskie przejście 
+15. Brak kubeczków w automacie 
+16. Dzień zawodowych (master card)
